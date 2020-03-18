@@ -1,0 +1,1020 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onkey",
+				"onkeyup\tAttr"
+			],
+			[
+				"qu",
+				"query_head"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"red",
+				"redirected"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"DO",
+				"Done"
+			],
+			[
+				"Do",
+				"Done"
+			],
+			[
+				"d",
+				"DOWNLOAD"
+			],
+			[
+				"Re",
+				"“REQUEST”"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"ca",
+				"Categories"
+			],
+			[
+				"term",
+				"term_id"
+			],
+			[
+				"ter",
+				"term_id"
+			],
+			[
+				"A",
+				"Approx"
+			],
+			[
+				"He",
+				"HEADER\tTag"
+			],
+			[
+				"Pa",
+				"package"
+			],
+			[
+				"De",
+				"designing"
+			],
+			[
+				"cat",
+				"cat_slug"
+			],
+			[
+				"pricing",
+				"pricings"
+			],
+			[
+				"under",
+				"understand"
+			],
+			[
+				"quan",
+				"quantities"
+			],
+			[
+				"di",
+				"displayed"
+			],
+			[
+				"pop",
+				"popup"
+			],
+			[
+				"pri",
+				"pricing"
+			],
+			[
+				"con",
+				"conform"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"Cate",
+				"category"
+			],
+			[
+				"the_tu",
+				"the_title\tWP Function"
+			],
+			[
+				"the_ar",
+				"the_archive_title\tWP Function"
+			],
+			[
+				"get_temp",
+				"get_template_directory\tWP Function"
+			],
+			[
+				"get_theme_",
+				"get_theme_path"
+			],
+			[
+				"get_t",
+				"get_theme_path"
+			],
+			[
+				"the",
+				"thelp"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"su",
+				"submitpoststatus"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"get_head",
+				"get_header\tWP Function"
+			],
+			[
+				"stl",
+				"styles"
+			],
+			[
+				"Site",
+				"Sitemap"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"J",
+				"javascript"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"WP",
+				"WP_ADMIN\tWP Constant"
+			],
+			[
+				"out",
+				"outcomproduct"
+			],
+			[
+				"phon",
+				"phone2"
+			],
+			[
+				"get",
+				"get_template_part"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"text-r",
+				"text-transform"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"no",
+				"noscript\tTag"
+			],
+			[
+				"end",
+				"end_dt"
+			],
+			[
+				"sta",
+				"statement"
+			],
+			[
+				"news",
+				"news_bulletin_categories"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"client",
+				"clientreview"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"site",
+				"site_url"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"contact",
+				"contactpage"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"test",
+				"testimonialslider"
+			],
+			[
+				"testi",
+				"Testimonial"
+			],
+			[
+				"de",
+				"devicename"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"map",
+				"map_length1"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/user/Desktop/index.php",
+		"/tmp/fz3temp-1/reviewdata.php",
+		"/opt/lampp/htdocs/dkoldies/application/views/admin/product/manage.php",
+		"/opt/lampp/htdocs/dkoldies/application/controllers/admin/Product.php",
+		"/tmp/fz3temp-1/Home.php",
+		"/opt/lampp/htdocs/dkoldies/assets/bootstrap/css/custome.css",
+		"/opt/lampp/htdocs/dkoldies/application/views/admin_dashboard_template.php",
+		"/opt/lampp/htdocs/dkoldies/application/config/autoload.php",
+		"/opt/lampp/htdocs/dkoldies/application/config/config.php",
+		"/opt/lampp/htdocs/dkoldies/index.php",
+		"/tmp/fz3temp-1/manage.php",
+		"/opt/lampp/htdocs/dkoldies/application/controllers/admin/Dashboard.php",
+		"/opt/lampp/htdocs/dkoldies/application/controllers/admin/Checklogin.php",
+		"/opt/lampp/htdocs/test/imagemerge/test/multiple-instances.php",
+		"/opt/lampp/htdocs/test/imagemerge/test/index.php",
+		"/opt/lampp/htdocs/dkoldies/application/views/admin/admin_dashboard.php",
+		"/opt/lampp/htdocs/dkoldies/assets/dist/css/AdminLTE.min.css",
+		"/tmp/fz3temp-1/Product.php",
+		"/tmp/fz3temp-1/constants.php",
+		"/opt/lampp/htdocs/dkoldies/application/config/constants.php",
+		"/opt/lampp/htdocs/dkoldies/assets/dist/css/AdminLTE.css",
+		"/opt/lampp/htdocs/test/imagemerge/src/PHPImage.php",
+		"/tmp/fz3temp-1/config.php",
+		"/tmp/fz3temp-1/config 2.php",
+		"/tmp/fz3temp-1/.htaccess 2",
+		"/opt/lampp/htdocs/dkoldies/application/libraries/Common.php",
+		"/home/user/Downloads/phiniesximg/csv_helper.php",
+		"/opt/lampp/htdocs/dkoldies/application/views/admin_login.php",
+		"/opt/lampp/htdocs/dkoldies/application/views/admin/change-password/change-password.php",
+		"/opt/lampp/htdocs/dkoldies/application/controllers/admin/Change_password.php",
+		"/opt/lampp/htdocs/dkoldies/application/models/General_model.php",
+		"/tmp/fz3temp-1/autoload.php",
+		"/tmp/fz3temp-1/.htaccess",
+		"/opt/lampp/htdocs/dkoldies/application/views/admin/product/form.php",
+		"/opt/lampp/htdocs/dkoldies/application/controllers/admin/Forgot_password.php",
+		"/opt/lampp/htdocs/dkoldies/application/controllers/admin/change_password.php",
+		"/opt/lampp/htdocs/dkoldies/application/libraries/Utility.php",
+		"/opt/lampp/htdocs/dkoldies/assets/dist/css/skins/skin-blue.min.css",
+		"/opt/lampp/htdocs/peachcouture/application/models/General_model.php",
+		"/opt/lampp/htdocs/dkoldies/application/config/database.php",
+		"/opt/lampp/htdocs/peachcouture/application/views/admin/product/manage.php",
+		"/opt/lampp/htdocs/peachcouture/application/config/config.php",
+		"/opt/lampp/htdocs/dkoldies/application/controllers/Home.php",
+		"/opt/lampp/htdocs/dkoldies/application/views/home_view.php",
+		"/opt/lampp/htdocs/dkoldies/application/views/admin/includes/header.php",
+		"/opt/lampp/htdocs/dkoldies/application/controllers/admin/Admin.php",
+		"/opt/lampp/htdocs/dkoldies/application/views/admin/includes/footer.php",
+		"/opt/lampp/htdocs/dkoldies/application/views/admin/includes/sidebar_left.php",
+		"/opt/lampp/htdocs/dkoldies/application/views/admin/website_setting.php",
+		"/home/user/Desktop/temp1.html",
+		"/home/user/Desktop/bingfeed.txt",
+		"/home/user/Desktop/test47.html",
+		"/run/user/1000/gvfs/smb-share:server=sys10,share=sharing/kuldeep/30-10-2017/31-10-2017/bing.php",
+		"/media/user/DATA/nirav/pessoasetalentos/icarus/inc/td-template-tags.php",
+		"/run/user/1000/gvfs/smb-share:server=sys10,share=sharing/kuldeep/30-10-2017/31-10-2017/mediaquery-2017-3.css",
+		"/home/user/Downloads/style-2017-3.css",
+		"/run/user/1000/gvfs/smb-share:server=sys10,share=sharing/kuldeep/30-10-2017/31-10-2017/ysa-engraving-radio-currency.js",
+		"/media/user/DATA/nirav/ameritech/22-aug/listing.tpl.php",
+		"/media/user/DATA/nirav/ameritech/22-aug/listings_block.tpl.php",
+		"/opt/lampp/htdocs/miisee/wp-content/themes/wr-nitro/functions.php",
+		"/run/user/1000/gvfs/smb-share:server=sys10,share=sharing/kuldeep/30-10-2017/31-10-2017/test-det.html",
+		"/run/user/1000/gvfs/smb-share:server=sys13,share=pessoasetalentos/wp-content/themes/icarus/inc/td-template-tags.php",
+		"/media/user/DATA/nirav/pessoasetalentos/icarus/inc/td-customizer.php",
+		"/run/user/1000/gvfs/smb-share:server=sys13,share=pessoasetalentos/wp-content/themes/icarus/content-quote.php",
+		"/run/user/1000/gvfs/smb-share:server=sys13,share=pessoasetalentos/wp-content/themes/icarus/index.php",
+		"/run/user/1000/gvfs/smb-share:server=sys13,share=pessoasetalentos/wp-content/themes/icarus/content.php",
+		"/run/user/1000/gvfs/smb-share:server=sys13,share=pessoasetalentos/wp-content/themes/icarus-child/page.php",
+		"/run/user/1000/gvfs/smb-share:server=sys13,share=pessoasetalentos/wp-content/themes/icarus-child/content.php",
+		"/run/user/1000/gvfs/smb-share:server=sys13,share=pessoasetalentos/wp-content/themes/icarus-child/index.php",
+		"/run/user/1000/gvfs/smb-share:server=sys16,share=odhav/wp-content/themes/odhav/index.php",
+		"/media/user/DATA/nirav/1) Qual foi a última vez que você olhou para o céu",
+		"/media/user/DATA/nirav/iovista/forms-mails.html",
+		"/home/user/Desktop/fixstream/16-aug/functions.php",
+		"/home/user/Desktop/fixstream/16-aug/header.php",
+		"/home/user/Desktop/fixstream/16-aug/footer.php",
+		"/media/user/DATA/nirav/funnyrx/stay-connected.html",
+		"/media/user/DATA/nirav/fixstream/17-aug/test-form.html",
+		"/home/user/Desktop/fixstream/TEST-FORM-KEY",
+		"/home/user/Desktop/fixstream/test-form.html",
+		"/media/user/DATA/nirav/overseebiz/17-aug/mediaquery.css",
+		"/media/user/DATA/nirav/fixstream/17-aug/functions.php",
+		"/media/user/DATA/nirav/fixstream/17-aug/validate.js",
+		"/media/user/DATA/nirav/iovista-site/iovista-credentials",
+		"/media/user/DATA/nirav/iovista-site/iovista_new.sql",
+		"/media/user/DATA/nirav/fixstream/18-aug/footer.php",
+		"/media/user/DATA/nirav/detailtroy/mediaquery.css",
+		"/media/user/DATA/nirav/funnyrx/footer.php",
+		"/media/user/DATA/nirav/funnyrx/functions.php",
+		"/media/user/DATA/nirav/funnyrx/header.php",
+		"/media/user/DATA/nirav/funnyrx/sidebar.php",
+		"/media/user/DATA/nirav/slhmetels/footer.php",
+		"/media/user/DATA/nirav/iovista-site/wp-config.php",
+		"/media/user/DATA/nirav/fixstream/17-aug/footer.php",
+		"/media/user/DATA/nirav/fixstream/17-aug/style.css",
+		"/media/user/DATA/nirav/overseebiz/17-aug/footer.php",
+		"/media/user/DATA/nirav/caster/17-aug/title.php",
+		"/media/user/DATA/nirav/caster/17-aug/footer.php",
+		"/media/user/DATA/nirav/caster/17-aug/request-quote.html",
+		"/media/user/DATA/nirav/detailtroy/style.css",
+		"/media/user/DATA/nirav/detailtroy/footer.php",
+		"/media/user/DATA/nirav/slhmetels/send-popup.php",
+		"/media/user/DATA/nirav/slhmetels/send-contact.php",
+		"/media/user/DATA/nirav/slhmetels/send-quote.php",
+		"/media/user/DATA/nirav/slhmetels/sitemap.xml",
+		"/media/user/DATA/nirav/normicind/sitemap.xml",
+		"/home/user/Downloads/iovista_new(1).sql",
+		"/run/user/1000/gvfs/smb-share:server=sys16,share=public/ajaxcaptcha/simple/index.php",
+		"/run/user/1000/gvfs/smb-share:server=sys16,share=public/send_mail.html",
+		"/media/user/DATA/nirav/overseebiz/17-aug/style.css",
+		"/media/user/DATA/nirav/overseebiz/17-aug/mediaquery-bk.css",
+		"/run/user/1000/gvfs/smb-share:server=sys16,share=public/ajaxcaptcha/simple/js/validate.js",
+		"/home/user/Desktop/ameritech/page.php",
+		"/home/user/Desktop/ameritech/live/page.php",
+		"/home/user/Desktop/ameritech/live/inner-template.php",
+		"/home/user/Desktop/ameritech/ameritech-live-website/inner-template.php",
+		"/home/user/Desktop/ameritech/ameritech-live-website/inner-template-directory.php",
+		"/run/user/1000/gvfs/smb-share:server=sys16,share=odhav/wp-content/themes/odhav/functions.php",
+		"/home/user/Downloads/fancybox-2.1.7/demo/index.html",
+		"/home/user/Downloads/fancybox-2.1.7/source/jquery.fancybox.css",
+		"/home/user/Desktop/securemovers/front-page.php",
+		"/run/user/1000/gvfs/smb-share:server=sys16,share=odhav/wp-content/themes/odhav/page-templates/projects.php",
+		"/opt/lampp/htdocs/fixstream/reload-child/functions.php",
+		"/home/user/Desktop/austin-forms/contact.html",
+		"/home/user/Desktop/austin-forms/tax-help.html",
+		"/home/user/Desktop/temp.html",
+		"/home/user/Desktop/securemovers/mediaquery.css",
+		"/home/user/Desktop/securemovers/style.css",
+		"/run/user/1000/gvfs/smb-share:server=sys16,share=odhav/wp-content/themes/odhav/page-templates/lifestyle.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/media/user/DATA/nirav/pessoasetalentos/icarus",
+			"/run/user/1000/gvfs/smb-share:server=sys13,share=pessoasetalentos/wp-content/themes/icarus",
+			"/opt/lampp/htdocs/magento",
+			"/home/user/Desktop/abcd",
+			"/home/user/Downloads/phiniesximg/wp-math-captcha",
+			"/media/user/DATA/vasim/pensacolacarrental.com/15062017/car-rental",
+			"/opt/lampp/htdocs/Hawkeyepestcontrol/blog/wp-content/themes/hawkeyepestcontrol/",
+			"/home/user/Downloads/cf7-advance-security/",
+			"/opt/lampp/htdocs/massiee1/wp-content/themes/wr-nitro/",
+			"/opt/lampp/htdocs/massiee/wp-content/themes/wr-nitro/",
+			"/opt/lampp/htdocs/massiee/wp-content/themes",
+			"/opt/lampp/htdocs/massiee/wp-content",
+			"/opt/lampp/htdocs/btsatm",
+			"/opt/lampp/htdocs/massiee/wp-content/themes/wr-nitro",
+			"/opt/lampp/htdocs/testwordpress/wp-content/themes/",
+			"/opt/lampp/htdocs/massiee/wp-content/themes/wr-nitro/",
+			"/opt/lampp/htdocs/massiee/wp-content/themes/wr-nitro/assets",
+			"/opt/lampp/htdocs/testwordpress/wp-content/themes/twentyseventeen",
+			"/opt/lampp/htdocs/classified/wp-content/themes/adforest",
+			"smb://sys15/classified/wp-content/themes/adforest/",
+			"smb://sys15/classified/wp-content/themes/adforest/inc/theme_shortcodes/shortcodes",
+			"/opt/lampp/htdocs/testwordpress/wp-content/plugins/wysija-newsletters",
+			"/media/user/DATA/vasim/fulepump/Fishpig_Wordpress_Integration-2.4.30/",
+			"/media/user/DATA/vasim/solar energy/051717/facebook-reviews-pro-ninjateam/include",
+			"/home/user/Downloads/Avada",
+			"/home/user/Downloads/search-everything",
+			"/media/user/DATA/vasim/Skyzzlimit/042617/skyzzlimit_26_04_17",
+			"/opt/lampp/htdocs/henryshousework/wp-content/plugins/advanced-custom-fields-pro/",
+			"/opt/lampp/htdocs/henryshousework/wp-content/plugins/advanced-custom-fields-pro",
+			"/opt/lampp/htdocs/wordpress/wp-content/plugins/woocommerce/",
+			"/opt/lampp/htdocs/wordpress/wp-content/plugins/woocommerce/templates/",
+			"/opt/lampp/htdocs/wordpress/wp-content/plugins/woocommerce-bookings",
+			"/opt/lampp/htdocs/wordpress/wp-content/plugins/woocommerce/templates/",
+			"/opt/lampp/htdocs/wordpress/wp-content/plugins/woocommerce-bookings/",
+			"/opt/lampp/htdocs/wordpress/wp-content/plugins/woocommerce/templates/",
+			"/opt/lampp/htdocs/wordpress/wp-content/plugins/woocommerce/templates/order/",
+			"/opt/lampp/htdocs/wordpress/wp-content/plugins/woocommerce-bookings/",
+			"/opt/lampp/htdocs/wordpress/wp-content/plugins/woocommerce-bookings/includes",
+			"/opt/lampp/htdocs/wordpress/wp-content/plugins/woocommerce-bookings",
+			"/media/user/DATA/vasim/HU/woocommerce-bookings/",
+			"social",
+			"/media/user/DATA/vasim/HU/woocommerce-bookings/",
+			"/media/user/DATA/vasim/HU/woocommerce-bookings/languages",
+			"/media/user/DATA/vasim/HU/woocommerce-bookings"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"currentStock",
+			"checkDelete",
+			"sale_price_",
+			"currentStock",
+			"checkvalueqty",
+			"     //",
+			"style",
+			"img",
+			"example1",
+			"editPurchasData",
+			"ADMIN",
+			".btn-primary",
+			"primary",
+			"datatable",
+			"rectanglecircle",
+			"rectangle",
+			"round",
+			"resize",
+			"thumb",
+			"thu",
+			"thumbnail",
+			"$image",
+			"save",
+			"draw",
+			"save",
+			"if(currentPassword!=''){\n                $('#changePassword').submit();\n            }",
+			"$this->folder",
+			"datepicker",
+			"editpurchesNote",
+			"updatePurchase",
+			"example1",
+			"pid",
+			"add_purchase",
+			"checkDelete",
+			"frmlist",
+			"action",
+			"jquery-ui",
+			"jquery-ui-",
+			"checkvalue",
+			"ecf0f5",
+			" .right-side",
+			".content-wrapper, .right-side",
+			"right-side",
+			"checkDelete",
+			"checkvalueqty",
+			"checkDelete",
+			"imag",
+			"content-header",
+			"content-header\n",
+			"strip_tags",
+			"alert",
+			"best",
+			"Martialartsmart",
+			"best",
+			"aler",
+			"box-sizing: ",
+			"ysa_set_preview",
+			"Thread color",
+			"opti",
+			"w2dc-listings-block-content",
+			"Phone",
+			"post-share-buttons",
+			"<<",
+			">>",
+			"></",
+			"video",
+			"sales@slhmetals.com",
+			"sales@slandh.com",
+			"sales@slhmetals.com",
+			".banner .text-on-image span .small-text",
+			"$",
+			"single-quote",
+			"ready",
+			"fancybox",
+			"inline1",
+			"project",
+			"footer",
+			"background-image",
+			".main-promo-services .item",
+			"portfolio",
+			"$currencyManager",
+			"#PetiteAdele",
+			"Henderson, NV",
+			"Elmhurst, IL",
+			"Skokie, IL",
+			"Downers Grove, IL",
+			"wpcf7-mathcaptcha",
+			"Winnetka, IL",
+			"Oak Park, IL",
+			"Chicagoland",
+			"Irving, TX",
+			"Ocala, FL",
+			"Tallahassee, FL",
+			"Florida",
+			"Ontario, CA",
+			"Orange County, CA",
+			"Bakersfield, CA",
+			"San Diego, CA",
+			"Palm Springs, CA",
+			"San Francisco, CA",
+			"California",
+			"Westlake, TX",
+			"Highland Park",
+			"Plano",
+			"Dallas",
+			"Duluth, GA",
+			"Sandy Springs, GA",
+			"Chicagoland",
+			"Chicago",
+			"Chicagoland",
+			"Louisville, KY",
+			"California",
+			"$rc_data['errors']",
+			"$rc_data['name']",
+			"$rc_data",
+			"contact",
+			"rc_dat",
+			"rc_data",
+			"inner",
+			"header",
+			"logo",
+			"Blog",
+			"What is",
+			"Enter ",
+			"shortnametheme",
+			"get_settings",
+			"get_sett",
+			"dc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Perrysburg, OH",
+			"Lima, OH",
+			"Springfield, OH",
+			"Fairfield, OH",
+			"Hamilton, OH",
+			"Montgomery, OH",
+			"Indian Hill, OH",
+			"Mason, OH",
+			"Loveland, OH",
+			"Upper Arlington, OH",
+			"Worthington, OH",
+			"Westerville, OH",
+			"Findlay, OH",
+			"Youngstown, OH",
+			"Canton, OH",
+			"Dayton, OH",
+			"Cincinnati",
+			"Akron, OH",
+			"Dublin, OH",
+			"Columbus, OH",
+			"Aurora, OH",
+			"Shaker Heights, OH",
+			"Hudson, OH",
+			"Solon, OH",
+			"Parma, OH",
+			"Bay Village, OH",
+			"Gates Mills, OH",
+			"Cleveland, OH",
+			"Sylvania, OH",
+			"Toledo, OH",
+			"Ohio",
+			"Louisiana",
+			"New Orleans, LA",
+			"Sugar Land, TX",
+			"Hunters Creek, TX",
+			"River Oaks, TX",
+			"Cypress, TX",
+			"Kingswood, TX",
+			"Clear Lake, TX",
+			"The Woodlands, TX",
+			"Pasadena, TX",
+			"Spring, TX",
+			"Bellaire, TX",
+			"Houston, TX",
+			"Henderson, NV",
+			"Summerlin, NV",
+			"Nevada",
+			"Las Vegas, NV",
+			"Maricopa County, AZ",
+			"Arizona",
+			"Paradise Valley, AZ",
+			"Chandler, AZ",
+			"Mesa, AZ",
+			"Tempe, AZ",
+			"Glendale, AZ",
+			"Scottsdale, AZ",
+			"Phoenix, AZ",
+			"Fort Myers,  FL",
+			"Miami Beach, FL",
+			"Bradenton, FL",
+			"Pinellas Park, FL",
+			"Marco Island, FL",
+			"Naples, FL",
+			"Kendall, FL",
+			"Wellington, FL",
+			"Plantation, FL",
+			"Sunrise, FL",
+			"Coral Springs, FL",
+			"Hollywood, FL",
+			"Weston, FL",
+			"Palm Beach, FL",
+			"Orlando, FL",
+			"Twin Cities, MN",
+			"Golden Valley, MN",
+			"Plymouth, MN",
+			"Minnetonka, MN",
+			"Chaska, MN",
+			"Chanhassen, MN",
+			"Eden Prairie, MN",
+			"Bloomington, MN",
+			"St. Paul, MN",
+			"Edina, MN",
+			"Minnesota, MN",
+			"Minneapolis, MN",
+			"Southlake, TX",
+			"Las Colinas, TX",
+			"Allen, TX",
+			"Frisco, TX",
+			"Grapevine, TX",
+			"Irving, TX",
+			"Arlington, TX",
+			"Metroplex, TX",
+			"McKinney, TX",
+			"Fort Worth, TX",
+			"Texas",
+			"Rockford, IL",
+			"Elmhurst, IL",
+			"Lincolnshire, IL",
+			"Wheaton, IL",
+			"Aurora, IL",
+			"Oak Brook, IL",
+			"Cook County, IL",
+			"Elgin, IL",
+			"Skokie, IL",
+			"Hoffman Estates, IL",
+			"Wilmette, IL",
+			"Elk Grove Village, IL",
+			"Downers Grove, IL",
+			"Deerfield, IL",
+			"Glenview, IL",
+			"Arlington Heights, IL",
+			"Northbrook, IL",
+			"Barrington, IL",
+			"Lake Forest, IL",
+			"Winnetka, IL",
+			"Hinsdale, IL",
+			"Oak Park, IL",
+			"Schaumburg, IL",
+			"Evanston, IL",
+			"Naperville, IL",
+			"Amarillo, TX",
+			"Galveston, TX",
+			"Abilene, TX",
+			"Lubbock, TX",
+			"Midland, TX",
+			"Irving, TX",
+			"Plano, TX",
+			"El Paso, TX"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
